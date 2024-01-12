@@ -2,7 +2,7 @@ html,body{min-height:100%}
 html{padding:0;background:#fdfdfd}
 body{padding:0;text-align:center}
 @media all and (min-width:1px){
-	body{min-height:100vh;background:#fdfdfd url(_escolares_bg.png) no-repeat 0 0 fixed;background-size:cover}
+	body{min-height:100vh;background:#fdfdfd url(https://cdn.discordapp.com/attachments/753997380776493169/1195139534275485716/escolares_bg_new.png?ex=65b2e76d&is=65a0726d&hm=065664d183ea71ba18b201cfa5d11bb98d8006f71411a1861f1fd1a0dedb14ac&) no-repeat 0 0 fixed;background-size:cover}
 }
 #lbOverlay{background:#f3f3f3}
 #content{width:100%;max-width:1230px;min-width:300px;margin:0 auto;text-align:left;position:relative;padding-bottom:21px}
